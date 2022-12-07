@@ -98,10 +98,10 @@ export const Features: NextPage = () => {
                     </div>
                   </div>
                   <div>
-                    <h1 className="text-2xl font-bold">Undetectable cheats</h1>
+                    <h1 className="text-2xl font-bold">Cheats Indetectáveis</h1>
                     <p className="text-gray-300">
-                      Due to sophisticated technology, all cheats that we
-                      provide are actually undetected and safe!
+                      Devido à tecnologia sofisticada, todas as fraudes que nós
+                      fornecemos são realmente não detectados e seguros!
                     </p>
                   </div>
                 </div>
@@ -116,10 +116,10 @@ export const Features: NextPage = () => {
                     </div>
                   </div>
                   <div>
-                    <h1 className="text-2xl font-bold">Quality products</h1>
+                    <h1 className="text-2xl font-bold">Qualidade dos produtos</h1>
                     <p className="text-gray-300">
-                      All our products go over an extensive review and tested
-                      before it's available on the market.
+                      Todos os nossos produtos passam por uma extensa revisão e testados
+                      antes de estar disponível no mercado.
                     </p>
                   </div>
                 </div>
@@ -136,10 +136,10 @@ export const Features: NextPage = () => {
                     </div>
                   </div>
                   <div>
-                    <h1 className="text-2xl font-bold">Leading provider</h1>
+                    <h1 className="text-2xl font-bold">Melhor do Mercado</h1>
                     <p className="text-gray-300">
-                      Established in 2021, we soon became the leading cheat
-                      provider for BattlEye and EAC games.
+                      Estabelecido em 2021, logo nos tornamos o principal trapaceiro
+                      fornecedor de jogos BattlEye e EAC.
                     </p>
                   </div>
                 </div>
@@ -154,10 +154,10 @@ export const Features: NextPage = () => {
                     </div>
                   </div>
                   <div>
-                    <h1 className="text-2xl font-bold">Private community</h1>
+                    <h1 className="text-2xl font-bold">Comunidade Privada</h1>
                     <p className="text-gray-300">
-                      Only subscribers and trusted users can access our
-                      community.
+                      Somente assinantes e usuários confiáveis podem acessar nosso
+                      comunidade.
                     </p>
                   </div>
                 </div>
