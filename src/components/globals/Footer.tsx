@@ -7,8 +7,8 @@ export const Footer: NextPage = () => {
         <p className="text-2xl font-bold mt-10">
           All rights reserveds ₢ NeverMiss 2022
         </p>
-        <a href="https://agencianovageracao.com.br/" target="_blank">
-          Developed with ❤️ by Nova Geração
+        <a href="https://discord.gg/T8azGnwhcV" target="_blank">
+          Developed with ❤️ by NeverMiss.pw
         </a>
       </div>
     </footer>
