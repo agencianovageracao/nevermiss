@@ -2,56 +2,56 @@
   {
     "title": "Apex Legends",
     "image": "/games/apexlegends.jpg",
-    "options": ["Price: from R$70,00", "Status: Undetected"],
+    "options": ["Preço: R$70,00", "Status: Undetected"],
     "link": "https://discord.gg/UJG3E2xXNX"
   },
   {
     "title": "Valorant",
     "image": "/games/valorant.jpg",
-    "options": ["Price: from R$80,00", "Status: Undetected"],
+    "options": ["Preço: R$80,00", "Status: Undetected"],
     "link": "https://discord.gg/7nKfudaJqE",
     "special": true
   },
   {
     "title": "Cod Warzone 2.0",
     "image": "/games/codwar2.0.jpg",
-    "options": ["Price: from R$95,00", "Status: Undetected"],
+    "options": ["Preço: R$95,00", "Status: Undetected"],
     "link": "https://discord.gg/xYDCedXqr4"
   },
   {
     "title": "DayZ",
     "image": "/games/dayz.jpg",
-    "options": ["Price: from R$95,00", "Status: Undetected"],
+    "options": ["Preço: R$95,00", "Status: Undetected"],
     "link": "https://discord.gg/bcsmnnPtxx"
   },
   {
     "title": "Deadside",
     "image": "/games/deadside.jpg",
-    "options": ["Price: from R$85,00", "Status: Undetected"],
+    "options": ["Preço: R$85,00", "Status: Undetected"],
     "link": "https://discord.gg/yCmkVX5vWX"
   },
   {
     "title": "Fortnite",
     "image": "/games/fortnite.jpg",
-    "options": ["Price: from R$80,00", "Status: Undetected"],
+    "options": ["Preço: R$80,00", "Status: Undetected"],
     "link": "https://discord.gg/YwfyDsGS3w"
   },
   {
     "title": "Pubg",
     "image": "/games/pubg.jpg",
-    "options": ["Price: from R$75,00", "Status: Undetected"],
+    "options": ["Preço: R$75,00", "Status: Undetected"],
     "link": "https://discord.gg/FBtGANgqYU"
   },
   {
     "title": "Rust",
     "image": "/games/rust.jpg",
-    "options": ["Price: from R$90,00", "Status: Undetected"],
+    "options": ["Preço: R$90,00", "Status: Undetected"],
     "link": "https://discord.gg/aPcFndvweF"
   },
   {
     "title": "Super People",
     "image": "/games/superpeople.png",
-    "options": ["Price: from R$75,00", "Status: Undetected"],
+    "options": ["Preço: R$75,00", "Status: Undetected"],
     "link": "https://discord.gg/ZnSc7MPAn6"
   }
 ]
