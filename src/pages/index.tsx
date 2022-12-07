@@ -2,8 +2,8 @@ import { NextPage } from 'next'
 import Head from 'next/head'
 
 import { Footer } from '../components/globals/Footer'
-import { Comments } from '../components/pages/home/Comments'
 import { Features } from '../components/pages/home/Features'
+import { Games } from '../components/pages/home/Games'
 import { Header } from '../components/pages/home/Header'
 
 const Home: NextPage = (props: any) => {
@@ -13,10 +13,10 @@ const Home: NextPage = (props: any) => {
         <title>Home | NeverMiss</title>
       </Head>
       <Header />
-      <body>
+      <main>
         <Features />
-        <Comments />
-      </body>
+        <Games />
+      </main>
       <Footer />
     </>
   )

@@ -15,7 +15,7 @@ export const Navbar: NextPage = () => {
 
   return (
     <>
-      <nav className="py-10 hidden lg:block" id="home">
+      <nav className="py-10 hidden lg:block" data-aos="fade-down" id="home">
         <div className="container mx-auto flex justify-between">
           <div className="flex gap-16 items-center">
             <button onClick={() => router.push('/')}>
@@ -47,33 +47,32 @@ export const Navbar: NextPage = () => {
               <li>
                 <button
                   className="text-lg flex gap-2 items-center"
-                  onClick={() => router.push('/#features')}
+                  onClick={() => router.push('/#prices')}
                 >
                   <span>
-                    <Icon.ChatsCircle size={24} color="#fff" />
+                    <Icon.Money size={24} color="#fff" />
                   </span>
-                  Comments
-                </button>
-              </li>
-              <li>
-                <button
-                  className="text-lg flex gap-2 items-center"
-                  onClick={() => router.push('/#features')}
-                >
-                  <span>
-                    <Icon.ChatText size={24} color="#fff" />
-                  </span>
-                  Terms
+                  Prices
                 </button>
               </li>
             </ul>
           </div>
           <div className="flex items-center gap-8">
-            <button className="text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80">
-              <span>Contact Us</span>
+            <button
+              className="text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80 hover:scale-105"
+              onClick={() => router.push('https://discord.gg/T8azGnwhcV')}
+            >
+              <span>Discord</span>
             </button>
-            <button className="text-lg flex items-center gap-4 py-3 px-5 bg-gray-800 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80">
-              <span>Forum</span>
+            <button
+              className="text-lg flex items-center gap-4 py-3 px-5 bg-gray-800 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80 hover:scale-105"
+              onClick={() =>
+                router.push(
+                  'https://www.youtube.com/channel/UC-x2DHp4tIN26hk9nhq372Q'
+                )
+              }
+            >
+              <span>Youtube</span>
             </button>
           </div>
         </div>
@@ -139,32 +138,31 @@ export const Navbar: NextPage = () => {
               <li>
                 <button
                   className="text-lg flex gap-2 items-center"
-                  onClick={() => router.push('/#features')}
+                  onClick={() => router.push('/#prices')}
                 >
                   <span>
-                    <Icon.ChatsCircle size={24} color="#fff" />
+                    <Icon.Money size={24} color="#fff" />
                   </span>
-                  Comments
-                </button>
-              </li>
-              <li>
-                <button
-                  className="text-lg flex gap-2 items-center"
-                  onClick={() => router.push('/#features')}
-                >
-                  <span>
-                    <Icon.ChatText size={24} color="#fff" />
-                  </span>
-                  Terms
+                  Prices
                 </button>
               </li>
             </ul>
             <div className="flex flex-col mt-10 items-center gap-8">
-              <button className="text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80">
-                <span>Contact Us</span>
+              <button
+                className="text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80 hover:scale-105"
+                onClick={() => router.push('https://discord.gg/T8azGnwhcV')}
+              >
+                <span>Discord</span>
               </button>
-              <button className="text-lg flex items-center gap-4 py-3 px-5 bg-gray-800 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80">
-                <span>Forum</span>
+              <button
+                className="text-lg flex items-center gap-4 py-3 px-5 bg-gray-800 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80 hover:scale-105"
+                onClick={() =>
+                  router.push(
+                    'https://www.youtube.com/channel/UC-x2DHp4tIN26hk9nhq372Q'
+                  )
+                }
+              >
+                <span>Youtube</span>
               </button>
             </div>
           </div>

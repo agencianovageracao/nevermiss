@@ -18,15 +18,27 @@ export const Header: NextPage = () => {
       <div className="container mx-auto">
         <div className="flex items-center justify-center flex-col text-center">
           <div className="max-w-[540px] my-[200px] text-center flex flex-col items-center justify-center">
-            <h1 className="font-bold text-5xl">
+            <h1
+              className="font-bold text-5xl"
+              data-aos="fade-down"
+              data-aos-delay="200"
+            >
               <span className="text-purple-500">100%</span> Undetected best{' '}
               <span className="text-purple-500">cheats</span>!
             </h1>
-            <p className="text-lg text-gray-300 mt-2">
+            <p
+              className="text-lg text-gray-300 mt-2"
+              data-aos="fade-down"
+              data-aos-delay="400"
+            >
               Reach the heights of cheating in games with the quality of
               Cheat.win! Look professional and always stay reliable.
             </p>
-            <button className="mt-4 text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80">
+            <button
+              className="mt-4 text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80"
+              data-aos="fade-down"
+              data-aos-delay="600"
+            >
               <span>Buy Now</span>
             </button>
           </div>

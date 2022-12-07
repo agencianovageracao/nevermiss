@@ -47,7 +47,7 @@ class MyDocument extends Document {
             name="description"
             content="Reach the heights of cheating in games with the quality of Cheat.win! Look professional and always stay reliable."
           />
-          <link rel="shortcut icon" href="/brand/logo.png" />
+          <link rel="shortcut icon" href="/brand/favicon.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link
