@@ -79,7 +79,7 @@ export const Features: NextPage = () => {
                 className="font-bold text-4xl text-white"
                 data-aos="fade-right"
               >
-                Our features
+                Features
               </h1>
               <img
                 src="/illustrations/person.png"
@@ -138,7 +138,7 @@ export const Features: NextPage = () => {
                   <div>
                     <h1 className="text-2xl font-bold">Leading provider</h1>
                     <p className="text-gray-300">
-                      Established in 2017, we soon became the leading cheat
+                      Established in 2021, we soon became the leading cheat
                       provider for BattlEye and EAC games.
                     </p>
                   </div>
