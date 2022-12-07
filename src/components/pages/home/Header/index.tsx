@@ -39,7 +39,7 @@ export const Header: NextPage = () => {
               data-aos="fade-down"
               data-aos-delay="600"
             >
-              <span>Buy Now</span>
+              <span>Compre Agora</span>
             </button>
           </div>
         </div>
