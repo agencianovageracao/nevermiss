@@ -31,13 +31,14 @@ export const Header: NextPage = () => {
               data-aos="fade-down"
               data-aos-delay="400"
             >
-              Alcance as alturas com trapaça em jogos e qualidade
-              Tenha uma aparência profissional e seja sempre confiável.
+              Alcance as alturas com trapaça em jogos e qualidade Tenha uma
+              aparência profissional e seja sempre confiável.
             </p>
             <button
               className="mt-4 text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80"
               data-aos="fade-down"
               data-aos-delay="600"
+              onClick={() => router.push('https://discord.gg/T8azGnwhcV')}
             >
               <span>Compre Agora</span>
             </button>
