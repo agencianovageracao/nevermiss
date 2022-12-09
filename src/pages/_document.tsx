@@ -20,9 +20,9 @@ class MyDocument extends Document {
           <meta charSet="utf-8" />
           <base href="/" />
           <meta name="robots" content="index,nofollow" />
-          <meta name="author" content="AtomCodes (atomcodes#7973)" />
+          <meta name="author" content="Nova Geração" />
           <meta name="copyright" content="NeverMiss" />
-          <meta name="designer" content="AtomCodes (atomcodes#7973)" />
+          <meta name="designer" content="Nova Geração" />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta
             name="apple-mobile-web-app-status-bar-style"
