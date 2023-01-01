@@ -158,11 +158,11 @@ export const Navbar: NextPage = () => {
                 className="text-lg flex items-center gap-4 py-3 px-5 bg-gray-800 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80 hover:scale-105"
                 onClick={() =>
                   router.push(
-                    'https://www.youtube.com/channel/UC-x2DHp4tIN26hk9nhq372Q'
+                    'https://forum.nevermiss.pw/'
                   )
                 }
               >
-                <span>Youtube</span>
+                <span>Fórum</span>
               </button>
             </div>
           </div>
