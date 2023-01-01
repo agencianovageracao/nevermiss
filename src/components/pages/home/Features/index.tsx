@@ -79,7 +79,7 @@ export const Features: NextPage = () => {
                 className="font-bold text-4xl text-white"
                 data-aos="fade-right"
               >
-                Features
+                Our features
               </h1>
               <img
                 src="/illustrations/person.png"
@@ -94,14 +94,14 @@ export const Features: NextPage = () => {
                 <div className="flex items-center gap-8" data-aos="fade-right">
                   <div className="flex items-center justify-center p-4 rounded-md bg-gray-800 ">
                     <div className="animate-pulse">
-                      <Icon.Crosshair size={50} />
+                      <Icon.AirplaneLanding size={50} />
                     </div>
                   </div>
                   <div>
-                    <h1 className="text-2xl font-bold">Cheats Indetectáveis</h1>
+                    <h1 className="text-2xl font-bold">Undetectable cheats</h1>
                     <p className="text-gray-300">
-                      Devido à tecnologia sofisticada, todas as fraudes que nós
-                      fornecemos são realmente não detectados e seguros!
+                      Due to sophisticated technology, all cheats that we
+                      provide are actually undetected and safe!
                     </p>
                   </div>
                 </div>
@@ -112,14 +112,14 @@ export const Features: NextPage = () => {
                 >
                   <div className="flex items-center justify-center p-4 rounded-md bg-gray-800 ">
                     <div className="animate-pulse">
-                      <Icon.Code size={50} />
+                      <Icon.AirplaneLanding size={50} />
                     </div>
                   </div>
                   <div>
-                    <h1 className="text-2xl font-bold">Qualidade dos produtos</h1>
+                    <h1 className="text-2xl font-bold">Quality products</h1>
                     <p className="text-gray-300">
-                      Todos os nossos produtos passam por uma extensa revisão e testados
-                      antes de estar disponível no mercado.
+                      All our products go over an extensive review and tested
+                      before it's available on the market.
                     </p>
                   </div>
                 </div>
@@ -132,14 +132,14 @@ export const Features: NextPage = () => {
                 <div className="flex items-center gap-8">
                   <div className="flex items-center justify-center p-4 rounded-md bg-gray-800 ">
                     <div className="animate-pulse">
-                      <Icon.Timer size={50} />
+                      <Icon.AirplaneLanding size={50} />
                     </div>
                   </div>
                   <div>
-                    <h1 className="text-2xl font-bold">Melhor do Mercado</h1>
+                    <h1 className="text-2xl font-bold">Leading provider</h1>
                     <p className="text-gray-300">
-                      Estabelecido em 2021, logo nos tornamos o principal trapaceiro
-                      fornecedor de jogos BattlEye e EAC.
+                      Established in 2017, we soon became the leading cheat
+                      provider for BattlEye and EAC games.
                     </p>
                   </div>
                 </div>
@@ -150,14 +150,14 @@ export const Features: NextPage = () => {
                 >
                   <div className="flex items-center justify-center p-4 rounded-md bg-gray-800 ">
                     <div className="animate-pulse">
-                      <Icon.ShieldCheck size={50} />
+                      <Icon.AirplaneLanding size={50} />
                     </div>
                   </div>
                   <div>
-                    <h1 className="text-2xl font-bold">Comunidade Privada</h1>
+                    <h1 className="text-2xl font-bold">Private community</h1>
                     <p className="text-gray-300">
-                      Somente assinantes e usuários confiáveis podem acessar nosso
-                      comunidade.
+                      Only subscribers and trusted users can access our
+                      community.
                     </p>
                   </div>
                 </div>
