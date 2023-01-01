@@ -31,8 +31,8 @@ export const Header: NextPage = () => {
               data-aos="fade-down"
               data-aos-delay="400"
             >
-              Alcance as alturas com trapaça em jogos e qualidade Tenha uma
-              aparência profissional e seja sempre confiável.
+              Reach the heights of cheating in games with the quality of
+              NeverMiss.pw! Look professional and always stay reliable.
             </p>
             <button
               className="mt-4 text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80"
@@ -40,7 +40,7 @@ export const Header: NextPage = () => {
               data-aos-delay="600"
               onClick={() => router.push('https://forum.nevermiss.pw/index.php?/store/')}
             >
-              <span>Compre Agora</span>
+              <span>Buy Now</span>
             </button>
           </div>
         </div>
