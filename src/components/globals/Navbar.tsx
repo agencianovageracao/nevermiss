@@ -156,11 +156,7 @@ export const Navbar: NextPage = () => {
               </button>
               <button
                 className="text-lg flex items-center gap-4 py-3 px-5 bg-gray-800 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80 hover:scale-105"
-                onClick={() =>
-                  router.push(
-                    'https://forum.nevermiss.pw/'
-                  )
-                }
+                onClick={() => router.push('https://forum.nevermiss.pw/')}
               >
                 <span>Fórum</span>
               </button>
