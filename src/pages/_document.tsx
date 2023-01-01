@@ -1,10 +1,4 @@
-import Document, {
-  DocumentContext,
-  Head,
-  Html,
-  Main,
-  NextScript
-} from 'next/document'
+import Document, { DocumentContext, Head, Html, Main, NextScript } from 'next/document'
 
 class MyDocument extends Document {
   static async getInitialProps(ctx: DocumentContext) {
@@ -54,16 +48,6 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
             rel="stylesheet"
           />
-<!-- Google tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKKS9VN02L">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ZKKS9VN02L');
-</script>
         </Head>
         <body>
           <Main />

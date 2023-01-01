@@ -17,14 +17,17 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Component {...pageProps} />
+      <Script
+        strategy="afterInteractive"
+        src="https://www.googletagmanager.com/gtag/js?id=G-ZKKS9VN02L"
+      />
 
       <Script
-        id="Adsense-id"
-        data-ad-client="ca-pub-5415968318381293"
-        async={true}
-        onError={() => console.log('Adsense error')}
-        strategy="beforeInteractive"
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        id="google-analytics"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          __html: `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-ZKKS9VN02L', {page_path: window.location.pathname,});`
+        }}
       />
     </>
   )
