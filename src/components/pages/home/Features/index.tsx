@@ -94,7 +94,7 @@ export const Features: NextPage = () => {
                 <div className="flex items-center gap-8" data-aos="fade-right">
                   <div className="flex items-center justify-center p-4 rounded-md bg-gray-800 ">
                     <div className="animate-pulse">
-                      <Icon.AirplaneLanding size={50} />
+                      <Icon.Crosshair size={50} />
                     </div>
                   </div>
                   <div>
@@ -112,7 +112,7 @@ export const Features: NextPage = () => {
                 >
                   <div className="flex items-center justify-center p-4 rounded-md bg-gray-800 ">
                     <div className="animate-pulse">
-                      <Icon.AirplaneLanding size={50} />
+                      <Icon.Code size={50} />
                     </div>
                   </div>
                   <div>
@@ -132,7 +132,7 @@ export const Features: NextPage = () => {
                 <div className="flex items-center gap-8">
                   <div className="flex items-center justify-center p-4 rounded-md bg-gray-800 ">
                     <div className="animate-pulse">
-                      <Icon.AirplaneLanding size={50} />
+                      <Icon.Timer size={50} />
                     </div>
                   </div>
                   <div>
@@ -150,7 +150,7 @@ export const Features: NextPage = () => {
                 >
                   <div className="flex items-center justify-center p-4 rounded-md bg-gray-800 ">
                     <div className="animate-pulse">
-                      <Icon.AirplaneLanding size={50} />
+                      <Icon.ShieldCheck size={50} />
                     </div>
                   </div>
                   <div>
