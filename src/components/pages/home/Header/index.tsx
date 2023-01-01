@@ -38,7 +38,7 @@ export const Header: NextPage = () => {
               className="mt-4 text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80"
               data-aos="fade-down"
               data-aos-delay="600"
-              onClick={() => router.push('https://discord.gg/T8azGnwhcV')}
+              onClick={() => router.push('https://forum.nevermiss.pw/index.php?/store/')}
             >
               <span>Compre Agora</span>
             </button>
