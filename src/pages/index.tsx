@@ -11,6 +11,17 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Home | NeverMiss</title>
+
+<!-- Google tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKKS9VN02L">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZKKS9VN02L');
+</script>
       </Head>
       <Header />
       <main>
