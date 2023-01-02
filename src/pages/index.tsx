@@ -6,7 +6,7 @@ import { Features } from '../components/pages/home/Features'
 import { Games } from '../components/pages/home/Games'
 import { Header } from '../components/pages/home/Header'
 
-const Home: NextPage = () => {  x
+const Home: NextPage = () => {
   return (
     <>
       <Head>
