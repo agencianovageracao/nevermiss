@@ -2,56 +2,56 @@
   {
     "title": "Apex Legends",
     "image": "/games/apexlegends.jpg",
-    "options": ["Preço: R$70,00", "Status: Undetected"],
-    "link": "https://discord.gg/UJG3E2xXNX"
+    "options": ["Price: From €2,00", "Status: Undetected"],
+    "link": "https://forum.nevermiss.pw/index.php?/store/category/2-apex/"
   },
   {
     "title": "Valorant",
     "image": "/games/valorant.jpg",
-    "options": ["Preço: R$80,00", "Status: Undetected"],
-    "link": "https://discord.gg/7nKfudaJqE",
+    "options": ["Price: From €20,00", "Status: Undetected"],
+    "link": "https://forum.nevermiss.pw/index.php?/store/category/1-valorant/",
     "special": true
+  },
+  {
+    "title": "Fortnite",
+    "image": "/games/fortnite.jpg",
+    "options": ["Price: From €80,00", "Status: Undetected"],
+    "link": "https://forum.nevermiss.pw/index.php?/store/category/3-fortnite/"
   },
   {
     "title": "Cod Warzone 2.0",
     "image": "/games/codwar2.0.jpg",
-    "options": ["Preço: R$95,00", "Status: Undetected"],
+    "options": ["Price: From €95,00", "Status: Undetected"],
     "link": "https://discord.gg/xYDCedXqr4"
   },
   {
     "title": "DayZ",
     "image": "/games/dayz.jpg",
-    "options": ["Preço: R$95,00", "Status: Undetected"],
+    "options": ["Price: From €4,00", "Status: Undetected"],
     "link": "https://discord.gg/bcsmnnPtxx"
   },
   {
     "title": "Deadside",
     "image": "/games/deadside.jpg",
-    "options": ["Preço: R$85,00", "Status: Undetected"],
+    "options": ["Price: From €85,00", "Status: Undetected"],
     "link": "https://discord.gg/yCmkVX5vWX"
-  },
-  {
-    "title": "Fortnite",
-    "image": "/games/fortnite.jpg",
-    "options": ["Preço: R$80,00", "Status: Undetected"],
-    "link": "https://discord.gg/YwfyDsGS3w"
   },
   {
     "title": "Pubg",
     "image": "/games/pubg.jpg",
-    "options": ["Preço: R$75,00", "Status: Undetected"],
+    "options": ["Price: From €75,00", "Status: Undetected"],
     "link": "https://discord.gg/FBtGANgqYU"
   },
   {
     "title": "Rust",
     "image": "/games/rust.jpg",
-    "options": ["Preço: R$90,00", "Status: Undetected"],
+    "options": ["Price: From €90,00", "Status: Undetected"],
     "link": "https://discord.gg/aPcFndvweF"
   },
   {
     "title": "Super People",
     "image": "/games/superpeople.png",
-    "options": ["Preço: R$75,00", "Status: Undetected"],
+    "options": ["Price: From €75,00", "Status: Undetected"],
     "link": "https://discord.gg/ZnSc7MPAn6"
   }
 ]
