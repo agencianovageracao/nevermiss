@@ -1,5 +1,7 @@
 import AOS from 'aos'
 
+import config from '../../config.json'
+
 import '../styles/globals.css'
 import 'aos/dist/aos.css'
 import 'slick-carousel/slick/slick-theme.css'
@@ -19,14 +21,14 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Component {...pageProps} />
       <Script
         strategy="afterInteractive"
-        src="https://www.googletagmanager.com/gtag/js?id=G-ZKKS9VN02L"
+        src={`https://www.googletagmanager.com/gtag/js?id=${config.idGoogle}`}
       />
 
       <Script
         id="google-analytics"
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{
-          __html: `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-ZKKS9VN02L', {page_path: window.location.pathname,});`
+          __html: `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', ${config.idGoogle}, {page_path: window.location.pathname,});`
         }}
       />
     </>
