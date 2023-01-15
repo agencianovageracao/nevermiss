@@ -41,7 +41,7 @@ export const Games: NextPage = () => {
     <section className="mb-[100px]" id="prices">
       <div className="container mx-auto">
         <h1 className="font-bold text-4xl text-white" data-aos="fade-right">
-          Nossos Cheats
+          OUR PRODUCTS
         </h1>
         <div className="mt-10" data-aos="fade-right" data-aos-delay="200">
           <Slider {...settings}>
