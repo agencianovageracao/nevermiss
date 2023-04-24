@@ -60,7 +60,7 @@ export const Navbar: NextPage = () => {
           <div className="flex items-center gap-8">
             <button
               className="text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80 hover:scale-105"
-              onClick={() => router.push('https://discord.gg/T8azGnwhcV')}
+              onClick={() => router.push('https://discord.gg/gqWXAeqxC9')}
             >
               <span>Discord</span>
             </button>
@@ -146,7 +146,7 @@ export const Navbar: NextPage = () => {
             <div className="flex flex-col mt-10 items-center gap-8">
               <button
                 className="text-lg flex items-center gap-4 py-3 px-5 bg-purple-500 text-white uppercase font-bold rounded-lg transition-all hover:bg-opacity-80 hover:scale-105"
-                onClick={() => router.push('https://discord.gg/T8azGnwhcV')}
+                onClick={() => router.push('https://discord.gg/gqWXAeqxC9')}
               >
                 <span>Discord</span>
               </button>
