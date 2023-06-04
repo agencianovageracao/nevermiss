@@ -14,11 +14,7 @@ export const Headline = () => {
               Be a member of our community!
             </h1>
             <p className="text-lg">
-              O Lorem Ipsum é um texto modelo da indústria tipográfica e de
-              impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por
-              estas indústrias desde o ano de 1500, quando uma misturou os
-              caracteres de um texto para criar um espécime de livro. Este texto
-              não só sobreviveu 5 séculos,
+              Join our discord to stay in the loop and receive 24/7 support.
             </p>
           </div>
           <div>
