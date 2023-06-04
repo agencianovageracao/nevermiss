@@ -17,7 +17,7 @@ export const Forum = () => {
             <Button className="bg-purple-500 hover:brightness-90">
               Our Forum
             </Button>
-          </link>
+          </Link>
           </div>
         </div>
         <img
