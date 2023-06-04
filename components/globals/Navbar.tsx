@@ -29,7 +29,7 @@ export const Navbar = () => {
             </li>
             <li
               className={`text-lg transition-all hover:font-bold ${
-                pathname.includes("/cheats") ? "font-bold" : ""
+                pathname.includes("/cheats") ? "font-bold" : "https://forum.nevermiss.pw/index.php?/store/"
               }`}
             >
               <Link className="flex items-center gap-2" href="/">
@@ -39,7 +39,7 @@ export const Navbar = () => {
             </li>
             <li
               className={`text-lg transition-all hover:font-bold ${
-                pathname === "/discord" ? "font-bold" : ""
+                pathname === "/discord" ? "font-bold" : "https://discord.gg/nevermiss"
               }`}
             >
               <Link className="flex items-center gap-2" href="/">
