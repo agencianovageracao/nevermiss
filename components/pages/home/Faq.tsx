@@ -27,16 +27,13 @@ export const Faq = () => {
                 </div>
               </div>
               <h1 className="text-3xl font-effective text-white">
-                O que é tal coisa?
+                How long on the market ?
               </h1>
             </Accordion.AccordionTrigger>
             <Accordion.AccordionContent className="faq-content border-4 border-gray-800 ">
               <div className="p-5">
                 <p className="text-lg">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit
-                  adipisci quia, natus voluptatem distinctio quisquam aperiam
-                  quo architecto praesentium! Debitis autem nisi porro deserunt
-                  eos omnis ab ducimus eum in?
+                  We are completing 1 year in the market and we guarantee the best possible use.
                 </p>
               </div>
             </Accordion.AccordionContent>
@@ -53,16 +50,13 @@ export const Faq = () => {
                 </div>
               </div>
               <h1 className="text-3xl font-effective text-white">
-                O que é tal coisa?
+                Are the products undetectable?
               </h1>
             </Accordion.AccordionTrigger>
             <Accordion.AccordionContent className="faq-content border-4 border-gray-800 ">
               <div className="p-5">
                 <p className="text-lg">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit
-                  adipisci quia, natus voluptatem distinctio quisquam aperiam
-                  quo architecto praesentium! Debitis autem nisi porro deserunt
-                  eos omnis ab ducimus eum in?
+                  Yes, we go through a tough check before we put them online for customers.
                 </p>
               </div>
             </Accordion.AccordionContent>
@@ -79,16 +73,13 @@ export const Faq = () => {
                 </div>
               </div>
               <h1 className="text-3xl font-effective text-white">
-                O que é tal coisa?
+                Where do I get Support?
               </h1>
             </Accordion.AccordionTrigger>
             <Accordion.AccordionContent className="faq-content border-4 border-gray-800 ">
               <div className="p-5">
                 <p className="text-lg">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit
-                  adipisci quia, natus voluptatem distinctio quisquam aperiam
-                  quo architecto praesentium! Debitis autem nisi porro deserunt
-                  eos omnis ab ducimus eum in?
+                  You can send us a support form on our discord one of our STAFFS will help you with whatever you need.
                 </p>
               </div>
             </Accordion.AccordionContent>
@@ -105,16 +96,13 @@ export const Faq = () => {
                 </div>
               </div>
               <h1 className="text-3xl font-effective text-white">
-                O que é tal coisa?
+                How long does it take to receive the product?
               </h1>
             </Accordion.AccordionTrigger>
             <Accordion.AccordionContent className="faq-content border-4 border-gray-800 ">
               <div className="p-5">
                 <p className="text-lg">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit
-                  adipisci quia, natus voluptatem distinctio quisquam aperiam
-                  quo architecto praesentium! Debitis autem nisi porro deserunt
-                  eos omnis ab ducimus eum in?
+                  Product delivery is instantaneous after payment confirmation on our website and you will receive a tag that releases product downloads and a tutorial on how to install.
                 </p>
               </div>
             </Accordion.AccordionContent>
