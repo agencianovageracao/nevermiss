@@ -58,7 +58,9 @@ export const Navbar = () => {
               </Link>
             </li>
           </ul>
-          <Button className="bg-purple-500 hover:brightness-95">Forum</Button>
+          <Link href="/">
+            <Button className="bg-purple-500 hover:brightness-95">Forum</Button>
+          </Link>
         </div>
       </div>
     </nav>
