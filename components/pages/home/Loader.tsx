@@ -19,11 +19,7 @@ export const Loader = () => {
             the <span className="text-purple-500">impossible</span>!
           </Title>
           <p className="text-lg mt-2">
-            O Lorem Ipsum é um texto modelo da indústria tipográfica e de
-            impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por
-            estas indústrias desde o ano de 1500, quando uma misturou os
-            caracteres de um texto para criar um espécime de livro. Este texto
-            não só sobreviveu 5 séculos,
+            
           </p>
           <ul className="grid grid-cols-2 gap-3 mt-4">
             <li className="text-lg text-white flex items-center gap-2">
