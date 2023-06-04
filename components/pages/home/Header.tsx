@@ -22,16 +22,11 @@ export const Header = () => {
             <span className="text-purple-500">NeverMiss</span>!
           </Title>
           <p className="mt-2">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged.
+            
           </p>
           <div className="flex gap-4 mt-5">
             <Button className="bg-purple-500 hover:brightness-95">
-              Nossos Cheats
+              Cheats
             </Button>
             <Button className="bg-gray-800 hover:brightness-125">Forum</Button>
           </div>
