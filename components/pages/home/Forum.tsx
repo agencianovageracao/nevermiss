@@ -13,7 +13,7 @@ export const Forum = () => {
             Join our forum to stay tuned for news we release on it and product updates.
           </p>
           <div className="flex gap-4 items-center mt-8">
-          </url>
+          </ul>
           <Link href="https://forum.nevermiss.pw/index.php?/forums/">
             <Button className="bg-purple-500 hover:brightness-90">
               Our Forum
