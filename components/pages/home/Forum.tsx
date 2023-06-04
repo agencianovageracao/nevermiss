@@ -12,8 +12,8 @@ export const Forum = () => {
           <p className="mt-8">
             Join our forum to stay tuned for news we release on it and product updates.
           </p>
+          <Link href="https://forum.nevermiss.pw/index.php?/forums/">
           <div className="flex gap-4 items-center mt-8">
-            <Link href="https://forum.nevermiss.pw/index.php?/forums/">
             <Button className="bg-purple-500 hover:brightness-90">
               Our Forum
             </Button>
