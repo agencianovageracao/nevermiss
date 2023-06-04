@@ -10,11 +10,7 @@ export const Forum = () => {
             How about meet ou <span className="text-purple-500">forum</span>?
           </Title>
           <p className="mt-8">
-            O Lorem Ipsum é um texto modelo da indústria tipográfica e de
-            impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por
-            estas indústrias desde o ano de 1500, quando uma misturou os
-            caracteres de um texto para criar um espécime de livro. Este texto
-            não só sobreviveu 5 séculos,
+            Join our forum to stay tuned for news we release on it and product updates.
           </p>
           <div className="flex gap-4 items-center mt-8">
             <Button className="bg-purple-500 hover:brightness-90">
