@@ -29,20 +29,20 @@ export const Navbar = () => {
             </li>
             <li
               className={`text-lg transition-all hover:font-bold ${
-                pathname.includes("/cheats") ? "font-bold" : "https://forum.nevermiss.pw/index.php?/store/"
+                pathname.includes("/cheats") ? "font-bold" : ""
               }`}
             >
-              <Link className="flex items-center gap-2" href="/">
+              <Link className="flex items-center gap-2" href="https://forum.nevermiss.pw/index.php?/store/">
                 <Icon.GameController />
                 Cheats
               </Link>
             </li>
             <li
               className={`text-lg transition-all hover:font-bold ${
-                pathname === "/discord" ? "font-bold" : "https://discord.gg/nevermiss"
+                pathname === "/discord" ? "font-bold" : ""
               }`}
             >
-              <Link className="flex items-center gap-2" href="/">
+              <Link className="flex items-center gap-2" href="https://discord.gg/nevermiss">
                 <Icon.DiscordLogo />
                 Discord
               </Link>
@@ -58,7 +58,7 @@ export const Navbar = () => {
               </Link>
             </li>
           </ul>
-          <Link href="/">
+          <Link href="https://forum.nevermiss.pw/index.php?/forums/">
             <Button className="bg-purple-500 hover:brightness-95">Forum</Button>
           </Link>
         </div>
