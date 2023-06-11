@@ -3,6 +3,9 @@
 import { Button } from '@/components/globals/Button'
 import * as Icon from 'phosphor-react'
 
+import { Button } from '@/components/globals/Button'
+import * as Icon from 'phosphor-react'
+
 export const Headline = () => {
   return (
     <section className="mb-[100px]">
@@ -17,8 +20,8 @@ export const Headline = () => {
             </p>
           </div>
           <div>
-            <a href="https://discord.gg/nevermiss">
-              <Button className="bg-purple-500 hover:brightness-90" withIcon={true}>
+            <a href="https://discord.gg/nevermiss" target="_blank" rel="noopener noreferrer" className="bg-purple-500 hover:brightness-90">
+              <Button withIcon={true}>
                 <i>
                   <Icon.DiscordLogo weight="fill" />
                 </i>
