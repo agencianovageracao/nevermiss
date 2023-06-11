@@ -18,15 +18,16 @@ export const Headline = () => {
             </p>
           </div>
           <div>
-            <Button
-              className="bg-purple-500 hover:brightness-90"
-              withIcon={true}
-            >
+          </ul>
+            <Link href="https://discord.gg/nevermiss">
+            <Button className="bg-purple-500 hover:brightness-90"
+              withIcon={true}>
               <i>
                 <Icon.DiscordLogo weight="fill" />
               </i>
               Discord
             </Button>
+           </Link>
           </div>
         </div>
       </div>
