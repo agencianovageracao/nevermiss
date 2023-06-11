@@ -1,7 +1,6 @@
 'use client'
 
 import { Button } from '@/components/globals/Button'
-
 import * as Icon from 'phosphor-react'
 
 export const Headline = () => {
@@ -18,15 +17,14 @@ export const Headline = () => {
             </p>
           </div>
           <div>
-            <Button
-              className="bg-purple-500 hover:brightness-90"
-              withIcon={true}
-            >
-              <i>
-                <Icon.DiscordLogo weight="fill" />
-              </i>
-              Discord
-            </Button>
+            <a href="https://discord.gg/nevermiss">
+              <Button className="bg-purple-500 hover:brightness-90" withIcon={true}>
+                <i>
+                  <Icon.DiscordLogo weight="fill" />
+                </i>
+                Discord
+              </Button>
+            </a>
           </div>
         </div>
       </div>
