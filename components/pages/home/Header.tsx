@@ -25,7 +25,7 @@ export const Header = () => {
             
           </p>
           <div className="flex gap-4 mt-5">
-            <Button onClick={() => window.location.href = "https://forum.nevermiss.pw/index.php?/store/" className="bg-purple-500 hover:brightness-95">
+            <Button onClick={() => window.location.href = "https://forum.nevermiss.pw/index.php?/store/"} className="bg-purple-500 hover:brightness-95">
               Cheats
             </Button>
             <Button className="bg-gray-800 hover:brightness-125">Forum</Button>
