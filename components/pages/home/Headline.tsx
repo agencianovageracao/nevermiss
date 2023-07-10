@@ -11,7 +11,7 @@ export const Headline = () => {
         <div className="max-w-[1096px] w-full bg-gray-800 p-10 rounded flex gap-2 items-center justify-between">
           <div className="w-8/12">
             <h1 className="text-[20px] font-bold text-purple-500">
-              Be a member of our community!
+              eajidajikdaik
             </h1>
             <p className="text-lg">
               Join our discord to stay in the loop and receive 24/7 support.
