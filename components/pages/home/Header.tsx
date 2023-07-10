@@ -26,10 +26,14 @@ export const Header = () => {
           </p>
           <div className="flex gap-4 mt-5">
            <Link href="https://forum.nevermiss.pw/index.php?/store/">
-            Cheats
+            <Button className="bg-gray-800 hover:brightness-125"> 
+              Forum
+            </Button>
            </Link>
            <Link href="https://forum.nevermiss.pw/index.php?/forums/">
-            Forum
+            <Button className="bg-purple-500 hover:brightness-95">
+              Cheats
+            </Button>
            </Link>
           </div>
         </div>
