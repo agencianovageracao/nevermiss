@@ -1,6 +1,7 @@
 'use client'
 
 import * as Icon from 'phosphor-react'
+import Link from 'next/link'
 import { Title } from '@/components/globals/Title'
 import { Button } from '@/components/globals/Button'
 
