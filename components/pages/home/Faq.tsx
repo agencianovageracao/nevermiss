@@ -14,7 +14,6 @@ export const Faq = () => {
         <Accordion.Root
           className="AccordionRoot grid grid-cols-2 justify-between gap-8 w-full mt-10"
           type="multiple"
-          collapsible
         >
           <Accordion.Item
             data-state="closed"
